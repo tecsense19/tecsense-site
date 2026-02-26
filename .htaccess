@@ -1,7 +1,6 @@
 <IfModule mod_rewrite.c>
     Options -MultiViews
     RewriteEngine On
-    RewriteBase /tec-sense/
 
     # Serve existing files and directories
     RewriteCond %{REQUEST_FILENAME} -f [OR]
