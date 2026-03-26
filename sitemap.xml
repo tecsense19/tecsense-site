@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://www.tec-sense.com/</loc>
+    <lastmod>2026-03-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/about-us/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/career/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/projects</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/life-tec-sense/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/contact-us/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://www.tec-sense.com/creative-designing-services/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/saas-app-development-services/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/mobile-app-development-services/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/website-development-services/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/e-commerce-website-development-services/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/digital-marketing-services/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Hire Pages -->
+  <url>
+    <loc>https://www.tec-sense.com/hire-dedicated-resources</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-cms-developers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-full-stack-developers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-front-end-developers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-motion-graphics-designers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-mobile-app-developers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-ui-ux-designers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-digital-marketers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/hire-qa-testers/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Technologies -->
+  <url>
+    <loc>https://www.tec-sense.com/laravel-developement/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/node-js-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/python-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/php-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/android-app-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/ios-app-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/flutter-app-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/react-native-app-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/wordpress-website-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/shopify-website-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/webflow-website-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/magento-website-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/reactjs-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/html-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/angular-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tec-sense.com/vuejs-development/</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
