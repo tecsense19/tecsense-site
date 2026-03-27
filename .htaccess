@@ -2,6 +2,13 @@
     Options -MultiViews
     RewriteEngine On
 
+    # Force HTTPS + www
+    RewriteCond %{HTTP_HOST} !^www\. [NC]
+    RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [L,R=301,NE]
+
+    # Allow robots.txt and sitemap.xml directly
+    RewriteRule ^(robots\.txt|sitemap\.xml)$ - [L]
+
     # Serve existing files and directories
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d
